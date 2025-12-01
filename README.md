@@ -629,6 +629,65 @@ LLMs, such as those provided by ChatGPT or GPT-4. This is because custom models 
 <br>
 <br>
 <br>
+
+
+# AI Engineering by Chip Huyen - book key takeaways
+
+- AI engineering refers to the process of building applications on top of foundation models.
+
+<details>
+<summary>🎯Q. masked language model vs autoregressive language model </summary>
+
+- ![alt text](image-50.png)
+- ![alt text](image-51.png)
+- ![alt text](image-52.png)
+</details>
+
+<details>
+<summary>🎯Q. self supervised learning vs unsupervised ? </summary>
+
+- Self-supervision differs from unsupervision. In self-supervised learning, labels are inferred from the input data. In unsupervised learning, you don’t need labels at all.
+</details>
+
+<details>
+<summary>🎯Q. what is parameter in ML models ? </summary>
+
+- A parameter is a variable within an ML model that is updated through the training process.7 In general, though this is not always true, the more parameters a model has, the greater its capacity to learn desired behaviors.
+</details>
+
+<details>
+<summary>🎯Q. what is multimodal model ? </summary>
+
+- ![alt text](image-53.png)
+</details>
+
+<details>
+<summary>🎯Q. Three layers of the AI stack ? </summary>
+
+- ![alt text](image-54.png)
+- Application developement , model development and Infrastructure layer
+- ![alt text](image-55.png)
+</details>
+
+<details>
+<summary>🎯Q. fdfdfdfdf ? </summary>
+
+- 
+</details>
+
+<details>
+<summary>🎯Q. fdfdfdfdf ? </summary>
+
+- 
+</details>
+
+
+### general notes from the book
+- Amazon Web Services (AWS) has categorized enterprise generative AI use cases into three buckets: customer experience, employee productivity, and process optimization.
+
+
+
+
 ***********
 <details>
 <summary>Emojis used</summary>
@@ -640,4 +699,9 @@ LLMs, such as those provided by ChatGPT or GPT-4. This is because custom models 
 🚀 - For advanced topics .
 🚫 - For indicating something that cannot be used or a concerning point
 </summary>
+</details>
+
+<details>
+<summary>🎯Q. fdfdfdf </summary>
+
 </details>

@@ -670,9 +670,18 @@ LLMs, such as those provided by ChatGPT or GPT-4. This is because custom models 
 </details>
 
 <details>
-<summary>🎯Q. fdfdfdfdf ? </summary>
+<summary>🎯Q. Parameter Versus Hyperparameter ? </summary>
 
-- 
+- ![alt text](image-56.png)
+</details>
+
+<details>
+<summary>🎯Q. what is difference between pretraining vs posttraining ? </summary>
+
+- ![alt text](image-57.png)
+- ![alt text](image-58.png)
+- ![alt text](image-59.png)
+- ![alt text](image-60.png)
 </details>
 
 <details>
@@ -684,6 +693,7 @@ LLMs, such as those provided by ChatGPT or GPT-4. This is because custom models 
 
 ### general notes from the book
 - Amazon Web Services (AWS) has categorized enterprise generative AI use cases into three buckets: customer experience, employee productivity, and process optimization.
+- The performance of a model depends heavily on the values of its hyperparameters. When working with small models, it’s a common practice to train a model multiple times with different sets of hyperparameters and pick the best-performing one.
 
 
 

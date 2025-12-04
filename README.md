@@ -685,6 +685,12 @@ LLMs, such as those provided by ChatGPT or GPT-4. This is because custom models 
 </details>
 
 <details>
+<summary>🎯Q. Probablistic nature of the AI ? </summary>
+
+- This characteristic makes building AI applications both exciting and challenging. Many of the AI engineering efforts, as we’ll see in this book, aim to harness and mitigate this probabilistic nature.
+</details>
+
+<details>
 <summary>🎯Q. fdfdfdfdf ? </summary>
 
 - 
